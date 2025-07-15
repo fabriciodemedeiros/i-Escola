@@ -1,4 +1,3 @@
-![i-Escola - Sistema de Gerenciamento Escolar](images/banner.png)
 # i-Escola - Sistema de Gerenciamento Escolar
 
 Bem-vindo ao universo do **i-Escola - Sistema de Gerenciamento Escolar**, onde inovação, elegância e tecnologia se unem para transformar a gestão educacional. Posicionamo-nos ao lado dos maiores produtores de software do mundo, trazendo uma solução completa e sofisticada que integra não apenas a administração escolar, mas todo um ecossistema digital.
@@ -27,10 +26,10 @@ O poder do i-Escola vai além da gestão escolar. Nosso ecossistema é composto 
 
 ## ✨ Elegância e Profissionalismo
 
-No i-Escola, entendemos que cada detalhe faz a diferença. Nossa apresentação no GitHub reflete:
+No i-Escola, entendemos que cada detalhe faz a diferença.
 
 - 🎨 **Design Sofisticado:** Interface limpa e intuitiva, inspirada nos melhores padrões internacionais.
-- 📚 **Documentação Completa:** Materiais ricos e detalhados, que abrangem desde a arquitetura do sistema até casos de sucesso e roadmaps de desenvolvimento.
+- 📚 **Documentação Completa:** Materiais ricos e detalhados.
 - 🤝 **Comunidade e Colaboração:** Um ambiente aberto para a troca de ideias, sugestões e contribuições, onde cada feedback é valorizado para impulsionar a evolução do produto.
 
 ---
@@ -50,7 +49,7 @@ Navegue por nossas seções e descubra:
 
 ## 📬 Conecte-se Conosco
 
-Estamos prontos para transformar a gestão escolar e impulsionar a educação com tecnologia de classe mundial. Entre em contato e venha fazer parte dessa revolução:
+Estamos prontos para transformar a gestão escolar e impulsionar a educação com tecnologia. Entre em contato e venha fazer parte:
 
 - 🔗 **Website:** [fasil.criarsite.online/contact](https://www.fasil.criarsite.online/contact)
 - ✉️ **Email:** [contato@iescola.com](mailto:gannba@hotmail.com)
@@ -59,4 +58,4 @@ Estamos prontos para transformar a gestão escolar e impulsionar a educação co
 ---
 
 Com o **i-Escola - Sistema de Gerenciamento Escolar** e seu ecossistema integrado, o futuro da educação é agora.  
-Junte-se a nós e surpreenda-se com o potencial de uma plataforma criada para ser referência global em gestão educacional.
+Junte-se a nós e surpreenda-se com o potencial de uma plataforma criada para ser referência em gestão educacional.
