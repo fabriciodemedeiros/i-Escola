@@ -1,61 +1,57 @@
-# i-Escola - Sistema de Gerenciamento Escolar
+# 🎓 i-Escola – Sistema de Gerenciamento Escolar
 
-Bem-vindo ao universo do **i-Escola - Sistema de Gerenciamento Escolar**, onde inovação, elegância e tecnologia se unem para transformar a gestão educacional. Posicionamo-nos ao lado dos maiores produtores de software do mundo, trazendo uma solução completa e sofisticada que integra não apenas a administração escolar, mas todo um ecossistema digital.
+Bem-vindo ao universo do **i-Escola – Sistema de Gerenciamento Escolar**, onde **inovação, elegância e tecnologia** se unem para transformar a gestão educacional.  
+Posicionamo-nos ao lado dos maiores produtores de software do mundo, trazendo uma solução completa e sofisticada que integra não apenas a administração escolar, mas todo um **ecossistema digital educacional**.
 
 ---
 
 ## 🌍 Nossa Plataforma Global
 
-O **i-Escola** é mais do que um software: é uma plataforma robusta e escalável, pensada para as instituições de ensino que buscam excelência e modernidade. Com uma arquitetura de ponta e tecnologias de alta performance, entregamos:
+O **i‑Escola** é mais do que um software: é uma **plataforma robusta e escalável**, pensada para instituições que buscam **excelência, segurança e modernidade**.
 
-- 🚀 **Inovação Contínua:** Atualizações e melhorias constantes que acompanham as tendências globais.
-- 🔒 **Segurança Avançada:** Mecanismos rigorosos de proteção de dados e compliance, garantindo total integridade das informações.
-- ⚙️ **Flexibilidade e Customização:** Solução modular e configurável, adaptável às necessidades específicas de cada instituição.
+Com uma arquitetura de ponta e tecnologias de alta performance, entregamos:
+
+-   🚀 **Inovação Contínua:** Atualizações regulares, sempre alinhadas às tendências globais.
+-   🔒 **Segurança Avançada:** Proteção de dados, autenticação forte e conformidade com padrões de compliance.
+-   ⚙️ **Flexibilidade e Customização:** Solução modular, adaptável às necessidades específicas de cada escola ou rede.
 
 ---
 
 ## 🧩 Ecossistema Integrado
 
-O poder do i-Escola vai além da gestão escolar. Nosso ecossistema é composto por soluções que se interligam para oferecer uma experiência educacional completa:
+Nosso impacto vai além da gestão administrativa. O **i‑Escola** promove uma **experiência educacional unificada**, com soluções específicas para cada perfil:
 
-- 👨‍🏫 **i-Professor:** Ferramenta exclusiva para gestão de professores, facilitando a comunicação, avaliação e acompanhamento das atividades pedagógicas.
-- 👩‍🎓 **i-Aluno:** Ambiente intuitivo para alunos, que promove uma interação rica, com acesso facilitado a conteúdos, notas e atividades.
-- 🌐 **Integração Total:** Conexões inteligentes com outras ferramentas e plataformas, ampliando o alcance e a funcionalidade do sistema.
+-   👨‍🏫 **i‑Professor:** Ferramentas para planejamento, avaliações, acompanhamento e comunicação direta com os alunos.
+-   👩‍🎓 **i‑Aluno:** Ambiente intuitivo para alunos acompanharem seu desempenho, atividades e cronograma escolar.
+-   🌐 **Integração Total:** Conecte-se a sistemas educacionais oficiais, plataformas LMS e outras soluções da sua instituição.
 
 ---
 
 ## ✨ Elegância e Profissionalismo
 
-No i-Escola, entendemos que cada detalhe faz a diferença.
+No **i‑Escola**, cada detalhe importa:
 
-- 🎨 **Design Sofisticado:** Interface limpa e intuitiva, inspirada nos melhores padrões internacionais.
-- 📚 **Documentação Completa:** Materiais ricos e detalhados.
-- 🤝 **Comunidade e Colaboração:** Um ambiente aberto para a troca de ideias, sugestões e contribuições, onde cada feedback é valorizado para impulsionar a evolução do produto.
+-   🎨 **Design Sofisticado:** Interface moderna, responsiva e acessível.
+-   📚 **Documentação Completa:** Tutoriais, diagramas, manuais técnicos e Wiki integrada.
+-   🤝 **Comunidade Aberta:** Canal direto com desenvolvedores e equipe via GitHub. Cada feedback é valorizado para evoluir o produto.
 
 ---
 
 ## 📂 Explore Nosso Mundo
 
-Navegue por nossas seções e descubra:
+Estamos prontos para **transformar a gestão escolar e impulsionar a educação com tecnologia**.  
+📎 Links úteis:
 
-```
-📁 /Apresentacoes         → Slides, vídeos e materiais institucionais  
-📁 /Documentacao_Tecnica → Guias, diagramas e manuais do sistema  
-📁 /Casos_de_Sucesso     → Histórias reais de impacto e transformação  
-📁 /Roadmap              → Planejamento estratégico e inovações futuras  
-```
-
----
-
-## 📬 Conecte-se Conosco
-
-Estamos prontos para transformar a gestão escolar e impulsionar a educação com tecnologia. Entre em contato e venha fazer parte:
-
-- 🔗 **Website:** [fasil.criarsite.online/contact](https://www.fasil.criarsite.online/contact)
-- ✉️ **Email:** [contato@iescola.com](mailto:gannba@hotmail.com)
-- 🐛 **GitHub Issues:** Use a aba _Issues_ para sugestões, dúvidas ou melhorias  
+-   📄 [Wiki Oficial do i‑Escola](https://github.com/fabriciodemedeiros/i-Escola/wiki)
+-   🚀 [Sistema Online (i-Escola)](https://fasil.criarsite.online/i-School/)
+-   📬 [Contato Institucional](https://fasil.criarsite.online/contact)
+-   🐛 [Issues / Sugestões / Dúvidas](https://github.com/fabriciodemedeiros/i-Escola/issues)
 
 ---
 
-Com o **i-Escola - Sistema de Gerenciamento Escolar** e seu ecossistema integrado, o futuro da educação é agora.  
-Junte-se a nós e surpreenda-se com o potencial de uma plataforma criada para ser referência em gestão educacional.
+## 🚀 Junte-se a Nós!
+
+O **i‑Escola** é uma iniciativa da [i‑Fasil](https://fasil.criarsite.online) — _"Transformando Inteligência em Dados"_.
+
+> Com o **i‑Escola – Sistema de Gerenciamento Escolar** e seu **ecossistema integrado**, o futuro da educação já começou.  
+> Surpreenda-se com o potencial de uma plataforma **criada para ser referência em gestão educacional**.
