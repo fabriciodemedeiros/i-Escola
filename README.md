@@ -55,3 +55,25 @@ O **i‑Escola** é uma iniciativa da [i‑Fasil](https://fasil.criarsite.online
 
 > Com o **i‑Escola – Sistema de Gerenciamento Escolar** e seu **ecossistema integrado**, o futuro da educação já começou.  
 > Surpreenda-se com o potencial de uma plataforma **criada para ser referência em gestão educacional**.
+
+---
+---
+
+## 📚 Documentação dos Módulos
+
+Explore a arquitetura funcional do sistema i‑Escola por meio de seus módulos integrados:
+
+- [📘 Módulo i‑Escola](docs/01-modulos/01-i-Escola.md)  
+  *Gestão da unidade escolar com foco em organização, controle e eficiência.*
+
+- [👨‍🏫 Módulo i‑Professor](docs/01-modulos/02-i-Professor.md)  
+  *Ferramentas para planejamento, avaliação e apoio ao trabalho docente.*
+
+- [👩‍🎓 Módulo i‑Aluno](docs/01-modulos/03-i-Aluno.md)  
+  *Ambiente digital com acompanhamento acadêmico e comunicação escolar.*
+
+- [🏛️ Módulo i‑Instituição](docs/01-modulos/04-i-Instituicao.md)  
+  *Gestão centralizada e supervisão estratégica de múltiplas unidades escolares.*
+
+> 📌 Consulte cada módulo para conhecer os objetivos, funcionalidades, públicos-alvo e os diferenciais oferecidos por cada componente do ecossistema **i‑Escola**.
+
